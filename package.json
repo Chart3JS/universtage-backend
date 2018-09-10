@@ -1,0 +1,19 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-crypto-js-mod": "~0.1.1",
+        "node-red-contrib-file-upload": "0.0.5",
+        "node-red-contrib-http-multipart": "~0.3.2",
+        "node-red-contrib-mqtt-broker": "~0.2.3",
+        "node-red-contrib-objectid": "~0.7.1",
+        "node-red-contrib-sms-twilio": "0.0.2",
+        "node-red-contrib-telegrambot": "~2.8.0",
+        "node-red-contrib-uibuilder": "~1.0.6",
+        "node-red-dashboard": "~2.8.2",
+        "node-red-node-mysql": "0.0.16",
+        "node-red-node-twilio": "0.0.15",
+        "vue": "^2.5.17"
+    }
+}
